@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves creating innovative solutions and contributing to the open-source community. When I'm not coding, you can find me exploring new technologies or sharing knowledge with fellow developers.
+I am a Full Stack Software Engineer with over 7 years of experience building high-performance web applications and scalable systems. Skilled in modern front-end frameworks like React, Next.js, and TypeScript, as well as back-end development with Node.js, Express, and GraphQL, I specialize in designing efficient, user-centric solutions that drive business growth.
 
-<a href="https://t.me/share_cold_works"><img src="https://telegram-card.vercel.app/?username=share_cold_works" alt="@Cold works" style="max-width: 100%; height: auto;" /></a>
+I’m passionate about clean code, automation, and emerging technologies, and I thrive in collaborative environments where innovation and continuous learning are valued.
 
 ## 🌟 Skills & Expertise
 
