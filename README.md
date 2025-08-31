@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Huzgrx](https://github.com/huzgrx)
+# 👋 Hi there.
 
 ## 🚀 About Me
 
@@ -8,13 +8,74 @@ I’m passionate about clean code, automation, and emerging technologies, and I 
 
 ## 🌟 Skills & Expertise
 
-- **Frontend Development**: React, Next.js, TypeScript, Tailwind CSS
-- **Backend Development**: Node.js, Python, Express.js, FastAPI
-- **Database Management**: MongoDB, PostgreSQL, Redis
-- **DevOps & Cloud**: AWS, Docker, CI/CD, GitHub Actions
-- **Mobile Development**: React Native, Flutter
-- **AI/ML**: TensorFlow, PyTorch, Scikit-learn
-
+Languages & Frameworks
+:
+JavaScript (ES6+)
+TypeScript
+React
+Next.js
+Node.js
+Python
+Django
+Ruby on Rails
+PHP
+C#
+Go
+Laravel
+Databases
+:
+MySQL
+PostgreSQL
+MongoDB
+Redis
+Cloud & DevOps
+:
+AWS EC2
+AWS RDS
+AWS Lambda
+Google Cloud Platform Cloud Functions
+Google Cloud Platform BigQuery
+Docker
+Kubernetes
+Serverless Framework
+Render
+Vercel
+APIs
+:
+RESTful APIs
+GraphQL
+WebSockets
+Automated Testing & Quality Assurance
+:
+Jest
+React Testing Library
+Cypress
+Mocha
+Architecture
+:
+Microservices Architecture
+Serverless Applications
+Agile Methodologies
+:
+Scrum
+Kanban
+Lean
+Team Leadership
+Other Skills
+:
+Continuous Integration
+Continuous Deployment
+GitHub Actions
+CircleCI
+Performance Tuning
+Security Best Practices
+OWASP Guidelines
+SEO Optimization
+Automation Workflows
+AI Integration
+TensorFlow
+PyTorch
+Machine Learning Applications
 ## 🎉 Support My Work
 
 - [ ] BEP 20, ERC 20
