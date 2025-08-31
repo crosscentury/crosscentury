@@ -8,7 +8,7 @@ I’m passionate about clean code, automation, and emerging technologies, and I 
 
 ## 🌟 Skills & Expertise
 
-Languages & Frameworks
+-Languages & Frameworks
 :
 JavaScript (ES6+)
 TypeScript
@@ -22,13 +22,15 @@ PHP
 C#
 Go
 Laravel
-Databases
+
+-Databases
 :
 MySQL
 PostgreSQL
 MongoDB
 Redis
-Cloud & DevOps
+
+-Cloud & DevOps
 :
 AWS EC2
 AWS RDS
@@ -40,28 +42,33 @@ Kubernetes
 Serverless Framework
 Render
 Vercel
-APIs
+
+-APIs
 :
 RESTful APIs
 GraphQL
 WebSockets
-Automated Testing & Quality Assurance
+
+-Automated Testing & Quality Assurance
 :
 Jest
 React Testing Library
 Cypress
 Mocha
-Architecture
+
+-Architecture
 :
 Microservices Architecture
 Serverless Applications
-Agile Methodologies
+
+-Agile Methodologies
 :
 Scrum
 Kanban
 Lean
 Team Leadership
-Other Skills
+
+-Other Skills
 :
 Continuous Integration
 Continuous Deployment
