@@ -93,14 +93,12 @@ Machine Learning Applications
 ## ☎️ Connect With ME
 
 <p align="center"> 
-<a href="https://t.me/koldguy"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
+<a href="https://t.me/turtle720"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
 &nbsp;
 <a href="https://discordapp.com/users/1053702868407963669"><img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png&color=000000" height="48px" width="48px" /></a>
 &nbsp;
-<a href="https://github.com/huzgrx"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+<a href="https://github.com/crosscentury"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 &nbsp;
-<a href="https://twitter.com/huzgrx"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/alexandru-senchea-3b6179378/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in//"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
 &nbsp;
 </p>
