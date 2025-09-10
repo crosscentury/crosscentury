@@ -93,7 +93,7 @@ Machine Learning Applications
 ## ☎️ Connect With ME
 
 <p align="center"> 
-<a href="https://"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
+<a href="https://t.me.turtle720"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
 &nbsp;
 <a href="https://discordapp.com/users/1053702868407963669"><img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png&color=000000" height="48px" width="48px" /></a>
 &nbsp;
