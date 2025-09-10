@@ -99,6 +99,6 @@ Machine Learning Applications
 &nbsp;
 <a href="https://github.com/crosscentury"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in//"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/jussi-lake-499a0a383/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
 &nbsp;
 </p>
